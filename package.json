@@ -1,0 +1,19 @@
+{
+    "name": "nodejs-tut",
+    "version": "1.0.0",
+    "description": "my nodejs tutorial",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sambhav0306/nodeJS.git"
+    },
+    "author": "Sambhav",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Sambhav0306/nodeJS/issues"
+    },
+    "homepage": "https://github.com/Sambhav0306/nodeJS#readme"
+}
